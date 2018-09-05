@@ -1,12 +1,12 @@
 body {
     background-color: #FDF2E9;
     margin: 40px;
-    width: 50%;
+    width: 95%;
     padding-bottom: 80px;
 }
 nav ul, footer ul {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
-    padding: 0px;
+    padding: 40px;
     list-style: none;
     font-weight: bold;
 }
