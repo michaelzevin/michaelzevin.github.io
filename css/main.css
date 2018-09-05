@@ -2,11 +2,11 @@ body {
     background-color: #FDF2E9;
     margin: 0px;
     width: 90%;
-    padding-bottom: 10px;
+    padding-bottom: 40px;
 }
 nav ul, footer ul {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
-    padding: 5px;
+    padding: 0px;
     list-style: none;
     font-weight: bold;
 }
