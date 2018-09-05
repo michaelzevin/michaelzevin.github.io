@@ -1,12 +1,12 @@
 body {
     background-color: #FDF2E9;
     margin: 0px;
-    width: 80%;
+    width: 890%;
     padding-bottom: 40px;
 }
 nav ul, footer ul {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
-    padding: 40px;
+    padding: 5px;
     list-style: none;
     font-weight: bold;
 }
@@ -34,6 +34,7 @@ p {
     line-height: 1.4em;
     color: #333;
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
+    padding: 10px;
 }
 footer {
     border-top: 1px solid #d5d5d5;
