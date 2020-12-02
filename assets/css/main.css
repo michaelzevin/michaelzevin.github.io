@@ -35,7 +35,6 @@ body {
 
 ol, ul {
 	list-style: none;
-	margin-top: 0;
 }
 
 blockquote, q {
@@ -173,6 +172,7 @@ input, select, textarea {
 
 	p {
 		margin: 0 0 2rem 0;
+		display: inline;
 	}
 
 	h1, h2, h3, h4, h5, h6 {
