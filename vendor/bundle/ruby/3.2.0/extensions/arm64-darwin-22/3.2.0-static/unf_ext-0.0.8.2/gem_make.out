@@ -1,0 +1,19 @@
+current directory: /Users/michaelzevin/research/git/hydejack-starter-kit/vendor/bundle/ruby/3.2.0/gems/unf_ext-0.0.8.2/ext/unf_ext
+/Users/michaelzevin/.rubies/ruby-3.2.2/bin/ruby extconf.rb
+checking for -lstdc++... yes
+creating Makefile
+
+current directory: /Users/michaelzevin/research/git/hydejack-starter-kit/vendor/bundle/ruby/3.2.0/gems/unf_ext-0.0.8.2/ext/unf_ext
+make DESTDIR\= sitearchdir\=./.gem.20231004-15669-5wj48r sitelibdir\=./.gem.20231004-15669-5wj48r clean
+
+current directory: /Users/michaelzevin/research/git/hydejack-starter-kit/vendor/bundle/ruby/3.2.0/gems/unf_ext-0.0.8.2/ext/unf_ext
+make DESTDIR\= sitearchdir\=./.gem.20231004-15669-5wj48r sitelibdir\=./.gem.20231004-15669-5wj48r
+compiling unf.cc
+linking shared-object unf_ext.bundle
+
+current directory: /Users/michaelzevin/research/git/hydejack-starter-kit/vendor/bundle/ruby/3.2.0/gems/unf_ext-0.0.8.2/ext/unf_ext
+make DESTDIR\= sitearchdir\=./.gem.20231004-15669-5wj48r sitelibdir\=./.gem.20231004-15669-5wj48r install
+/usr/bin/install -c -m 0755 unf_ext.bundle ./.gem.20231004-15669-5wj48r
+
+current directory: /Users/michaelzevin/research/git/hydejack-starter-kit/vendor/bundle/ruby/3.2.0/gems/unf_ext-0.0.8.2/ext/unf_ext
+make DESTDIR\= sitearchdir\=./.gem.20231004-15669-5wj48r sitelibdir\=./.gem.20231004-15669-5wj48r clean
