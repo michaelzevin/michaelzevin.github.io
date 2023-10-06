@@ -2,176 +2,195 @@
 layout: about
 image: /assets/img/blog/hydejack-9.jpg
 description: >
-  A boutique Jekyll theme for hackers, nerds, and academics,
-  with a focus on personal sites that are meant to impress.
+  Michael Zevin's publications.
 hide_description: true
 redirect_from:
   - /download/
 ---
 
-# About
+# Publications
 
-<!--author-->
+<center>Featured publications are listed below.
+All <a href="https://ui.adsabs.harvard.edu/search/q=%20author%3A%22%5Ezevin%2C%20michael%22%20year%3A2010-2100&sort=date%20desc%2C%20bibcode%20desc&p_=0"><b>first-author publications</b></a> and <a href="https://ui.adsabs.harvard.edu/search/q=%20author%3A%22zevin%2C%20michael%22%20year%3A2010-2100&sort=date%20desc%2C%20bibcode%20desc&p_=0"><b>contributed publications</b></a>, including citation counts, can be also be found on ADS.</center><br>
 
-## Hydejack
+<center><a href="../cv/Zevin_CV.pdf" target="_blank">Click here for a <b>full CV</b></a>.</center>
 
-A boutique Jekyll theme for hackers, nerds, and academics.  
-{:.lead}
+<br><br>
 
-1. this list will be replaced by the toc
-{:toc .large-only}
+<ol>
 
-![Screenshot](assets/img/blog/hydejack-9.jpg){:.lead width="1920" height="1080" loading="lazy"}
+<li>
+<a href="https://ui.adsabs.harvard.edu/abs/2023arXiv230815530Z/abstract" target="_blank">
+<i>Gravity Spy: Lessons Learned and a Path Forward</i></a>.
+<b><i>M. Zevin</i></b>, C. Jackson, Z. Doctor et al.
+The European Physical Journal Plus submitted (2023).
+</li>
 
-Hydejack's cover page on a variety of screen sizes.
-{:.figcaption}
+<li>
+<a href="https://ui.adsabs.harvard.edu/abs/2023ApJ...955..127C/abstract" target="_blank">
+<i>What You Don't Know Can Hurt You: Use and Abuse of Astrophysical Models in Gravitational-wave Population Analyses</i></a>.
+A. Cheng, <b><i>M. Zevin</i></b>, S. Vitale
+The Astrophysical Journal accepted (2023).
+</li>
 
+<li>
+<a href="https://ui.adsabs.harvard.edu/abs/2023ApJ...955..107F/abstract" target="_blank">
+<i>Things that might go bump in the night: Assessing structure in the binary black hole mass spectrum</i></a>.
+A. Farah, B. Edelman, <b><i>M. Zevin</i></b>, M. Fishbach, J.M. Ezquiaga, B. Farr, D. Holz
+The Astrophysical Journal accepted (2023).
+</li>
 
-**Hydejack** is a boutique Jekyll theme for hackers, nerds, and academics, with a focus on personal sites that are meant to impress. 
+<li>
+<a href="https://ui.adsabs.harvard.edu/abs/2023ApJ...946....4L/abstract" target="_blank">
+<i>The Missing Link Between Black Holes in High-Mass X-ray Binaries and Gravitational-Wave Sources: Observational Selection Effects</i></a>.
+C. Liotine, <b><i>M. Zevin</i></b>, C. Berry, Z. Doctor, V. Kalogera.
+The Astrophysical Journal 946, 4 (2023).
+</li>
 
-It includes a blog that is suitable for both prose and technical documentation, a portfolio to showcase your projects, and a resume template that looks amazing on the web and in print.
+<li>
+<a href="https://ui.adsabs.harvard.edu/abs/2022ApJ...940L..18Z/abstract" target="_blank">
+<i>Observational Inference on the Delay Time Distribution of Short Gamma-ray Bursts</i></a>.
+<b><i>M. Zevin</i></b>, A. Nugent, S. Adhikari, W.-f. Fong, D. Holz, L.Z. Kelley.
+The Astrophysical Journal Letters 940, L18 (2022).
+</li>
 
-> Your complete presence on the web — A [blog], [portfolio], and [resume].
-{:.lead}
+<li>
+<a href="https://ui.adsabs.harvard.edu/abs/2022arXiv220508549Z/abstract" target="_blank">
+<i>Avoiding a Cluster Catastrophe: Retention Efficiency and the Binary Black Hole Mass Spectrum</i></a>.
+<b><i>M. Zevin</i></b>, D. Holz.
+The Astrophysical Journal Letters 935, L20 (2022).
+</li>
 
+<li>
+<a href="https://ui.adsabs.harvard.edu/abs/2022ApJ...933...86Z/abstract" target="_blank">
+<i>Suspicious Siblings: The Distribution of Mass and Spin across Component Black Holes in Isolated Binary Evolution</i></a>.
+<b><i>M. Zevin</i></b>, S. Bavera.
+The Astrophysical Journal 933, 86 (2022).
+</li>
 
-## A Personal Site That Won't Disappear
+<li>
+<a href="https://ui.adsabs.harvard.edu/abs/2021ApJ...921L..43Z/abstract" target="_blank">
+<i>Implications of Eccentric Observations on Binary Black Hole Formation Channels</i></a>.
+<b><i>M. Zevin</i></b>, I. Romero-Shaw, K. Kremer, E. Thrane, P. Lasky. 
+The Astrophysical Journal Letters 921, L43 (2021).
+</li>
 
-**Hydejack** is 100% built on Open Source software, and is Open Source itself, save for parts of the PRO version. The PRO version is a one-time payment that gives you the right to use it forever.
+<li>
+<a href="https://ui.adsabs.harvard.edu/abs/2021ApJ...921L..22C/abstract" target="_blank">
+<i>Cosmologically Coupled Compact Objects: A Single-parameter Model for LIGO-Virgo Mass and Redshift Distributions</i></a>.
+K. Croker, <b><i>M. Zevin</i></b>, D. Farrah, K. Nishimura, G. Tarle
+The Astrophysical Journal Letters 921, L22 (2021).
+</li>
 
-Hydejack is all static sites. _HTML_. All you need is a web server --- any web server --- to have a professional web presence that lasts a lifetime.
+<li>
+<a href="https://ui.adsabs.harvard.edu/abs/2021ApJ...915L..35K/abstract" target="_blank">
+<i>Evidence for Hierarchical Black Hole Mergers in the Second LIGO--Virgo Gravitational-Wave Catalog</i></a>.
+C. Kimball, C. Talbot, C. Berry, <b><i>M. Zevin</i></b>, E. Thrane, V. Kalogera, R. Buscicchio, M. Carney, T. Dent, H. Middleton, E. Payne, J. Veitch, D. Williams. 
+The Astrophysical Journal Letters 915, L35 (2021).
+</li>
 
-## Download
+<li>
+<a href="https://ui.adsabs.harvard.edu/abs/2021ApJ...910..152Z/abstract" target="_blank">
+<i>One Channel to Rule Them All? Constraining the Origins of Binary Black Holes using Multiple Formation Pathways</i></a>.
+<b><i>M. Zevin</i></b>, S. Bavera, C. Berry, V. Kalogera, T. Fragos, P. Marchant, C. Rodriguez, F. Antonini, D. Holz, C. Pankow. 
+The Astrophysical Journal 910, 152 (2021).
+</li>
 
-{% include table.md %}
+<li>
+<a href="https://ui.adsabs.harvard.edu/abs/2021A%26A...647A.153B/abstract" target="_blank">
+<i>Approximations of the Spin of Close Black Hole-Wolf-Rayet Binaries</i></a>.
+S. Bavera, <b><i>M. Zevin</i></b>, T. Fragos.
+Research Notes of the AAS 5, 127 (2021).
+</li>
 
+<li>
+<a href="https://ui.adsabs.harvard.edu/abs/2021A%26A...647A.153B/abstract" target="_blank">
+<i>The Impact of Mass-Transfer Physics on the Observable Properties of Field Binary Black Hole Populations</i></a>.
+S. Bavera, T. Fragos, <b><i>M. Zevin</i></b>, C. Berry, P. Marchant, J. Andrews, S. Coughlin, A. Dotter, K. Kovlakas, D. Misra, J. Serra-Perez, Y. Qin, K. Rocha, J. Roman-Garza, N. Tran, E. Zapartas. 
+Astronomy & Astrophysics 647, 153 (2020).
+</li>
 
-## A Free Blogging Theme
-**Hydejack** started out as a free blogging theme for Jekyll — and continues to be so.
+<li>
+<a href="https://ui.adsabs.harvard.edu/abs/2020ApJ...899L...1Z/abstract" target="_blank">
+<i>Exploring the Lower Mass Gap and Unequal Mass Regime in Compact Binary Evolution</i></a>.
+<b><i>M. Zevin</i></b>, M. Spera, C. Berry, V. Kalogera. 
+The Astrophysical Journal Letters 899, L1 (2020).
+</li>
 
-<!--posts-->
+<li>
+<a href="https://ui.adsabs.harvard.edu/abs/2020ApJ...899L..17Z/abstract" target="_blank">
+<i>You Can't Always Get What You Want: The Impact of Prior Assumptions on Interpreting GW190412</i></a>.
+<b><i>M. Zevin</i></b>, C. Berry, S. Coughlin, K. Chatziioannou, S. Vitale. 
+The Astrophysical Journal Letters 899, L17 (2020).
+</li>
 
+<li>
+<a href="https://ui.adsabs.harvard.edu/abs/2020arXiv200408342T/abstract" target="_blank">
+<i>GW190412: Observation of a Binary-Black-Hole Coalescence with Asymmetric Masses</i></a>.
+The LIGO Scientific Collaboration and Virgo Collaboration (<b><i>M. Zevin</i></b>: Paper-writing team, populations and astrophysical implications lead). 
+Physical Review D 102, 043015 (2020).
+</li>
 
-## An Impressive Portfolio
-A portfolio that's guaranteed to be impressive — no matter what you put into it.
+<li>
+<a href="https://ui.adsabs.harvard.edu/abs/2020ApJ...904..190Z/abstract" target="_blank">
+<i>Forward Modeling of Double Neutron Stars: Insights from Highly-Offset Short Gamma-ray Bursts</i></a>.
+<b><i>M. Zevin</i></b>, L. Kelley, A. Nugent, W. Fong, C. Berry, V. Kalogera. 
+The Astrophysical Journal 904, 190 (2020).
+</li>
 
-<!--projects-->
+<li>
+<a href="https://ui.adsabs.harvard.edu/abs/2020ApJ...898...71B/abstract" target="_blank">
+<i>COSMIC: Open-Source Binary Population Synthesis</i></a>.
+K. Breivik, S. Coughlin, <b><i>M. Zevin</i></b>, C. Rodriguez, K. Kremer, C. Ye, J. J. Andrews, M. Kurkowski, M. Digman, S. L. Larson, F. A. Rasio. 
+The Astrophysical Journal 898, 71 (2019).
+</li>
 
+<li>
+<a href="https://ui.adsabs.harvard.edu/abs/2019ApJ...886....4Z/abstract" target="_blank">
+<i>Can Neutron-Star Mergers Explain the r-process Enrichment in Globular Clusters?</i></a>
+<b><i>M. Zevin</i></b>, K. Kremer, D. M. Siegel, S. Coughlin, B. T.-H. Tsang, C. P. L. Berry, V. Kalogera. 
+The Astrophysical Journal 886, 1 (2019).
+</li>
 
-## A Printable Resume
-Get a resume that's consistent across the board — whether it's on the web, mobile, print, or [PDF](assets/Resume.pdf).
+<li>
+<a href="https://ui.adsabs.harvard.edu/abs/2019PhRvD.100d3027R/abstract" target="_blank">
+<i>Black Holes: The Next Generation</i></a>.
+C. Rodriguez, <b><i>M. Zevin</i></b>, P. Amaro-Seoane, S. Chatterjee, K. Kremer, F. A. Rasio, C. S. Ye. 
+Physical Review D 100, 043027 (2019).
+</li>
 
-[![Resume PDF](assets/img/blog/resume.png){:.lead width="884" height="632" loading="lazy"}][resume]{:.no-hover.no-mark}
+<li>
+<a href="https://ui.adsabs.harvard.edu/abs/2019ApJ...871...91Z/abstract" target="_blank">
+<i>Eccentric Black Hole Mergers in Dense Star Clusters: The Role of Binary-Binary Encounters</i></a>. 
+<b><i>M. Zevin</i></b>, J. Samsing, C. L. Rodriguez, C. J. Haster, E. Ramirez-Ruiz. 
+The Astrophysical Journal 871, 91 (2019).
+</li>
 
-Front and center page of a print resume generated by Hydejack.
-{:.figcaption}
+<li>
+<a href="https://ui.adsabs.harvard.edu/abs/2017ApJ...850L..40A/abstract" target="_blank">
+<i>On the Progenitor of Binary Neutron Star Merger GW170817</i></a>. 
+The LIGO Scientific Collaboration and Virgo Collaboration (<b><i>M. Zevin</i></b>: Chair of paper-writing team and analysis lead). 
+The Astrophysical Journal Letters 850, L40 (2017).
+</li>
 
+<li>
+<a href="https://ui.adsabs.harvard.edu/abs/2017ApJ...846...82Z/abstract" target="_blank">
+<i>Constraining Formation Models of Binary Black Holes with Gravitational-Wave Observations</i></a>. 
+<b><i>M. Zevin</i></b>, C. Pankow, C. Rodriguez, L. Sampson, E. Chase, V. Kalogera, F. Rasio. 
+The Astrophysical Journal 846, 82 (2017).
+</li>
 
-## Just Markdown
-Write all content with Markdown. __Hydejack__ gives you [additional CSS classes](docs/writing.md) to stylize your content, without losing compatibility with other Jekyll themes.
+<li>
+<a href="https://ui.adsabs.harvard.edu/abs/2017CQGra..34f4003Z/abstract" target="_blank">
+<i>Gravity Spy: Integrating Advanced LIGO Detector Characterization, Machine Learning, and Citizen Science</i></a>. 
+<b><i>M. Zevin</i></b>, S. Coughlin, S. Bahaadini, E. Besler, N. Rohani, S. Allen, M. Cabero, K. Crowston, A. Katsaggelos, S. Larson, T. Lee, C. Lintott, T. Littenberg, A. Lundgren, C. Osterlund, J. Smith, L. Trouille, V. Kalogera. 
+Classical and Quantum Gravity 34, 064003 (2017).
+</li>
 
-
-## Just Markup
-**Hydejack** boasts a plethora of modern JavaScript, but make no mistake: It's still a _plain old web page_ at its core. It works without JavaScript and you can even view it in a text-based browser like `w3m`:
-
-![w3m Screenshot](assets/img/blog/w3m.png){:.tail width="1920" height="1260" loading="lazy"}
-
-The Hydejack blog, as seen by the text browser `w3m`.
-{:.figcaption}
-
-
-## Syntax Highlighting
-**Hydejack** features syntax highlighting, powered by [Rouge].
-
-```html
-<!-- file: `_includes/my-body.html` -->
-<script type="module">
-  document.querySelector("hy-push-state").addEventListener("hy-push-state-load", () => {
-    const supportsCodeHighlights = false; // TBD!!
-  });
-</script>
-```
-
-Code blocks can have a filename and a caption.
-{:.figcaption}
-
-
-## Beautiful Math
-They say math is beautiful — and with **Hydejack**'s [math support][math] it's guaranteed to also look beautiful:
-
-$$
-\begin{aligned}
-  \phi(x,y) &= \phi \left(\sum_{i=1}^n x_ie_i, \sum_{j=1}^n y_je_j \right) \\[2em]
-            &= \sum_{i=1}^n \sum_{j=1}^n x_i y_j \phi(e_i, e_j)            \\[2em]
-            &= (x_1, \ldots, x_n)
-               \left(\begin{array}{ccc}
-                 \phi(e_1, e_1)  & \cdots & \phi(e_1, e_n) \\
-                 \vdots          & \ddots & \vdots         \\
-                 \phi(e_n, e_1)  & \cdots & \phi(e_n, e_n)
-               \end{array}\right)
-               \left(\begin{array}{c}
-                 y_1    \\
-                 \vdots \\
-                 y_n
-               \end{array}\right)
-\end{aligned}
-$$
-
-Hydejack uses KaTeX to efficiently render math.
-{:.figcaption}
-
-
-## Build an Audience
-The PRO version has built-in support for customizable [Tinyletter] newsletter subscription boxes.
-
-If you are using a different service like MailChimp, you can build a custom newsletter subscription box using [Custom Forms][forms].
-
-
-## Features
-
-{% include features.md %}
-
-
-## Comparison
-
-{% include table.md %}
-
-
-## Get It Now
-
-Use the the form below to purchase Hydejack PRO:
-
-<div class="gumroad-product-embed" data-gumroad-product-id="nuOluY"><a href="https://gumroad.com/l/nuOluY">Loading…</a></div>
-
-
-[blog]: /
-[portfolio]: https://hydejack.com/examples/
-[resume]: https://hydejack.com/resume/
-[download]: https://hydejack.com/download/
-[welcome]: https://hydejack.com/
-[forms]: https://hydejack.com/forms-by-example/
-
-[features]: #features
-[news]: #build-an-audience
-[syntax]: syntax-highlighting
-[latex]: #beautiful-math
-[dark]: https://hydejack.com/blog/hydejack/2018-09-01-introducing-dark-mode/
-[search]: https://hydejack.com/#_search-input
-[grid]: https://hydejack.com/blog/hydejack/
-
-[lic]: LICENSE.md
-[pro]: licenses/PRO.md
-[docs]: docs/README.md
-[ofln]: docs/advanced.md#enabling-offline-support
-[math]: docs/writing.md#adding-math
-
-[kit]: https://github.com/hydecorp/hydejack-starter-kit/releases
-[src]: https://github.com/hydecorp/hydejack
-[gem]: https://rubygems.org/gems/jekyll-theme-hydejack
-[buy]: https://gum.co/nuOluY
-
-[gpss]: https://developers.google.com/speed/pagespeed/insights/?url=https%3A%2F%2Fhydejack.com%2Fdocs%2F
-[rouge]: http://rouge.jneen.net
-[katex]: https://khan.github.io/KaTeX/
-[mathjax]: https://www.mathjax.org/
-[tinyletter]: https://tinyletter.com/
+<li>
+<a href="https://ui.adsabs.harvard.edu/abs/2016ApJ...832L...2R/abstract" target="_blank">
+<i>Illuminating Black Hole Binary Formation Channels with Spins in Advanced LIGO</i></a>. 
+C. Rodriguez, <b><i>M. Zevin</i></b>, C. Pankow, V. Kalogera, F. A. Rasio. 
+The Astrophysical Journal Letters 832, L2 (2016).
+</li>
+</ol>
