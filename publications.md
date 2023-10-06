@@ -13,7 +13,7 @@ redirect_from:
 <center>Featured publications are listed below.
 All <a href="https://ui.adsabs.harvard.edu/search/q=%20author%3A%22%5Ezevin%2C%20michael%22%20year%3A2010-2100&sort=date%20desc%2C%20bibcode%20desc&p_=0"><b>first-author publications</b></a> and <a href="https://ui.adsabs.harvard.edu/search/q=%20author%3A%22zevin%2C%20michael%22%20year%3A2010-2100&sort=date%20desc%2C%20bibcode%20desc&p_=0"><b>contributed publications</b></a>, including citation counts, can be also be found on ADS.</center><br>
 
-<center><a href="../cv/Zevin_CV.pdf" target="_blank">Click here for a <b>full CV</b></a>.</center>
+<center><a href="../cv" target="_blank">Click here for a <b>full CV</b></a>.</center>
 
 <br><br>
 
