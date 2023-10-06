@@ -19,6 +19,7 @@ redirect_from:
 </b>
 </center>
 
+
 <object data="/assets/cv/Zevin_CV.pdf" type="application/pdf" width="100%" height="850px">
   <p>Unable to display PDF file. <a href="/assets/cv/Zevin_CV.pdf">Download</a> instead.</p>
 </object>

@@ -64,6 +64,8 @@ menu:
     url:               /contact/
   - title:             CV
     url:               /cv/
+  - title:             PostsToDelete
+    url:               /posts/
   - title:             DocumentationToDelete
     url:               /docs/
 
