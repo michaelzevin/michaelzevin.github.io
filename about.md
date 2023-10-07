@@ -45,6 +45,7 @@ I aim to use the growing population of these observed <em>compact objects</em> t
 * How do compact object mergers chemically enrich their environments with the heavy elements forged during their explosive merger?
 * What can compact object mergers tell us about star formation across over cosmic time?
 * What do the host galaxies of compact object mergers teach us about their massive-star progenitors?
+
 I'm also heavily involved in <em>citizen science</em>, and helped to build a project called <a href="http://www.gravityspy.org">Gravity Spy</a> in which volunteers from the general public can help analyze gravitational-wave data.
 
 You can find more about <a href="../research.md">my specific research interests</a> and a full list of <a href="../publications">my academic publications</a> on this site.
