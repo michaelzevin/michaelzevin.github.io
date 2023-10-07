@@ -20,7 +20,7 @@ The Adler Planetarium in Chicago, Illinois.
 {:.figcaption}
 
 I grew up in the southwest suburbs of Chicago, and have since jumped around Illinois to study astronomy and physics.
-I did my undergraduate at the University of Illinois Urbana-Champaign with majors in astronomy and physycs, with a minor in music performance.
+I did my undergraduate at the University of Illinois Urbana-Champaign with majors in astronomy and physics, with a minor in music performance.
 Following my undergraduate studies, I took a couple of years off from my studies to pursue music, and during this time also worked as an educator at the Adler Planetarium.
 I then headed up to Evanston for my graduate studies, and received a PhD in astrononmy and physics from Northwestern University in 2020.
 Following my graduate studies, I was a NASA Hubble Fellow, Kavli Institute for Cosmological Physics Fellow, and Enrico Fermi Fellow at the University of Chicago from 2020-2023.
@@ -55,7 +55,7 @@ Globular cluster <em>47 Tucanae</em> imaged by the Hubble Space Telescope. Deep 
 {:.figcaption}
 
 Outside of astrophysics research I pass the time playing music: classical piano and string bass as well as bass guitar in a Chicago-based rock band (<a href="https://open.spotify.com/artist/6cg9fRyu1zCFItskHFY2pl?si=ujkvlueNRMCGuKEyROsCmA">click here to listen to us on Spotify</a>).
-I love traveling, hiking, and getting lost in new corners of the globe.
+I love traveling, hiking, and getting lost in new corners of the world.
 In the winter you can usually find me snowboarding down a mountain.
 Tennis is my favorite form of exercise, and I'm a huge board game/video game nerd.
 I'm also passionate about science education and outreach; you can find more about <a href="../outreach">my public speaking and outreach iniatives</a> on this site.
