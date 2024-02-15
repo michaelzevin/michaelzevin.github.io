@@ -20,24 +20,31 @@ All <a href="https://ui.adsabs.harvard.edu/search/q=%20author%3A%22%5Ezevin%2C%2
 <ol>
 
 <li>
-<a href="https://ui.adsabs.harvard.edu/abs/2023arXiv230815530Z/abstract" target="_blank">
+<a href="https://ui.adsabs.harvard.edu/abs/2024arXiv240207892V/abstract" target="_blank">
+<i>Consistent eccentricities for gravitational wave astronomy: Resolving discrepancies between astrophysical simulations and waveform models</i></a><br>
+A. Vijaykumar, A. Hanselman, <b><i>M. Zevin</i></b><br>
+The Open Journal of Astrophysics submitted (2024)
+</li>
+
+<li>
+<a href="https://ui.adsabs.harvard.edu/abs/2024EPJP..139..100Z/abstract" target="_blank">
 <i>Gravity Spy: Lessons Learned and a Path Forward</i></a><br>
 <b><i>M. Zevin</i></b>, C. Jackson, Z. Doctor, Y. Wu, C. Østerlund, L.C. Johnson, C.P.L. Berry, K. Crowston, S.B. Coughlin, V. Kalogera, S. Banagiri, D. Davis, J. Glanzer, R. Hao, A.K. Katsaggelos, O. Patane, J. Sanchez, J. Smith, S. Soni, L. Trouille, M. Walker, I. Aerith, W. Domainko, V.-G. Baranowski, G. Niklasch, B. Téglás<br>
-The European Physical Journal Plus submitted (2023)
+The European Physical Journal Plus 139, 100 (2024)
 </li>
 
 <li>
 <a href="https://ui.adsabs.harvard.edu/abs/2023ApJ...955..127C/abstract" target="_blank">
 <i>What You Don't Know Can Hurt You: Use and Abuse of Astrophysical Models in Gravitational-wave Population Analyses</i></a><br>
 A. Cheng, <b><i>M. Zevin</i></b>, S. Vitale<br>
-The Astrophysical Journal accepted (2023)
+The Astrophysical Journal 955, 127 (2023)
 </li>
 
 <li>
 <a href="https://ui.adsabs.harvard.edu/abs/2023ApJ...955..107F/abstract" target="_blank">
 <i>Things that might go bump in the night: Assessing structure in the binary black hole mass spectrum</i></a><br>
 A. Farah, B. Edelman, <b><i>M. Zevin</i></b>, M. Fishbach, J.M. Ezquiaga, B. Farr, D. Holz<br>
-The Astrophysical Journal accepted (2023)
+The Astrophysical Journal 955, 107 (2023)
 </li>
 
 <li>
