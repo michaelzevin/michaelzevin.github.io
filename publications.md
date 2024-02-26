@@ -20,6 +20,13 @@ All <a href="https://ui.adsabs.harvard.edu/search/q=%20author%3A%22%5Ezevin%2C%2
 <ol>
 
 <li>
+<a href="https://ui.adsabs.harvard.edu/abs/2024arXiv240215066P/abstract" target="_blank">
+<i>Spin Doctors: How to diagnose a hierarchical merger origin</i></a><br>
+E. Payne, K. Kremer, <b><i>M. Zevin</i></b><br>
+The Astrophysical Journal Letters submitted (2024)
+</li>
+
+<li>
 <a href="https://ui.adsabs.harvard.edu/abs/2024arXiv240207892V/abstract" target="_blank">
 <i>Consistent eccentricities for gravitational wave astronomy: Resolving discrepancies between astrophysical simulations and waveform models</i></a><br>
 A. Vijaykumar, A. Hanselman, <b><i>M. Zevin</i></b><br>
