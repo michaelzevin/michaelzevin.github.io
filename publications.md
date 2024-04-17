@@ -20,6 +20,13 @@ All <a href="https://ui.adsabs.harvard.edu/search/q=%20author%3A%22%5Ezevin%2C%2
 <ol>
 
 <li>
+<a href="https://ui.adsabs.harvard.edu/abs/2024arXiv240404248T/abstract" target="_blank">
+<i>Observation of Gravitational Waves from the Coalescence of a  2.5−4.5 Msun Compact Object and a Neutron Star</i></a><br>
+The LIGO Scientific Collaboration, the Virgo Collaboration, and the KAGRA Collaboration (<b><i>M. Zevin</i></b>: Chair of editorial team and chair of science case study team)<br>
+The Astrophysical Journal Letters submitted (2024)
+</li>
+
+<li>
 <a href="https://ui.adsabs.harvard.edu/abs/2024arXiv240215066P/abstract" target="_blank">
 <i>Spin Doctors: How to diagnose a hierarchical merger origin</i></a><br>
 E. Payne, K. Kremer, <b><i>M. Zevin</i></b><br>
