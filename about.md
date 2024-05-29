@@ -1,6 +1,6 @@
 ---
 layout: about
-image: /assets/img/zevin_headshot.png
+image: /assets/img/zevin_headshot2.png
 description: >
   About Michael Zevin.
 hide_description: true
