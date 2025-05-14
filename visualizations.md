@@ -23,13 +23,13 @@ Examples below are from <a href="https://ui.adsabs.harvard.edu/abs/2019ApJ...871
 
 <center>
 <video width="864" height="648" controls>
-<source src="/assets/media/inspiral_example_1.mp4" type="video/mp4">
+<source src="/assets/visualizations/inspiral_example_1.mp4" type="video/mp4">
 </video>
 </center>
 
 <center>
 <video width="864" height="648" controls>
-<source src="/assets/media/inspiral_example_2.mp4" type="video/mp4">
+<source src="/assets/visualizations/inspiral_example_2.mp4" type="video/mp4">
 </video>
 </center>
 <br>
@@ -44,6 +44,6 @@ Data for this animation comes from the analysis in <a href="https://ui.adsabs.ha
 
 <center>
 <video width="864" height="648" controls>
-<source src="/assets/media/Progenitor_lowres_cut.mp4" type="video/mp4">
+<source src="/assets/visualizations/Progenitor_lowres_cut.mp4" type="video/mp4">
 </video>
 </center>
