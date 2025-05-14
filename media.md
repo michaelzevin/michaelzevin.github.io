@@ -13,9 +13,7 @@ redirect_from:
 1. this list will be replaced by the toc
 {:toc .large-only}
 
-Below are a number of different media appearances!
+Below are links to a number of different media appearances!
+<br>
 
-## Geminid Meteor Shower
-### ABC7 Chicago (December 2023)
-<br><br>
-<iframe width="640" height="360" src="https://abc7chicago.com/video/embed/?pid=LeadVideo-16016663" allowfullscreen frameborder="0"></iframe>
+<a href="https://abc7chicago.com/14176583/?fbclid=IwAR0GF3Esv2yhCWno5Sqk5Zjlb0hDDY6Ybj2pK1YURmAUbnca5YPauVWcOco#lq44d0f84c4uf7nsgwq">Geminid Meteor Shower, ABC7 Chicago (December 2023)</a><br>
