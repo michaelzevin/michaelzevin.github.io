@@ -56,6 +56,8 @@ menu:
     url:               /blog/
   - title:             Publications
     url:               /publications/
+  - title:             Visualizations
+    url:               /visualizations/
   - title:             Media
     url:               /media/
   - title:             Outreach
