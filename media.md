@@ -16,11 +16,11 @@ redirect_from:
 Below are links to a number of different media appearances!
 <br>
 
-<a href="https://www.cbsnews.com/chicago/news/scientists-chicago-adler-planetarium-total-lunar-eclipse/" target="_blank">,Scientists at Chicago's Adler Planetarium are excited about total lunar eclipse CBS (March 2025)</a><br>
+<a href="https://www.cbsnews.com/chicago/news/scientists-chicago-adler-planetarium-total-lunar-eclipse/" target="_blank">Scientists at Chicago's Adler Planetarium are excited about total lunar eclipse CBS (March 2025)</a><br>
 
 <a href="https://www.fox32chicago.com/video/1607768" target="_blank">When and how to watch tonight's total lunar eclipse, FOX32 (March 2025)</a><br>
 
-<a href="https://abc7chicago.com/videoClip/16016663/" target="_blank">Blood Moon Lunar Eclipse, ABC7 (March 2025)</a><br>
+<a href="https://abc7chicago.com/videoClip/16016663/" target="_blank">Blood Moon Lunar Eclipse (36:49), ABC7 (March 2025)</a><br>
 
 <a href="https://abc7chicago.com/post/spacex-mission-set-launch-wednesday-will-bring-home-starliner-astronauts/16007865/" target="_blank">SpaceX mission to bring home Starliner astronauts postponed due to hydraulic issue, ABC7 (March 2025)</a><br>
 

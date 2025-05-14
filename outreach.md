@@ -19,6 +19,14 @@ For a full list of my outreach, public speaking, and teaching experience, please
 
 ![Screenshot](/assets/img/outreach/tedx.png){:.lead width="1920" height="1080" loading="lazy"}
 
+## Public Talks
+Talking to the public about space is one of my favorite things about my job!
+Here's just one of many talks I've given.
+<center>
+<iframe width="864" height="648" src="https://www.youtube.com/embed/_GD_giPVhv4?si=i3y_iw0XBAqKL0mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</center>
+
+
 ## Astronomy Conversations / Space Visualization Laboratory
 The Space Visualization Laboratory at the Adler Planetarium is an immersive space where museum guests can experience cutting-edge astronomical visualizations and hear about ground-breaking research.
 In addition to the space being open in an unfacilitated fashion during most museum hours, the Space Visualization Laboratory also hosts Chicagoland astronomer for <em>Astronomy Conversations</em>.
