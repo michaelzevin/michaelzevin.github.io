@@ -31,7 +31,7 @@ Here's just one of many talks I've given.
 The Space Visualization Laboratory at the Adler Planetarium is an immersive space where museum guests can experience cutting-edge astronomical visualizations and hear about ground-breaking research.
 In addition to the space being open in an unfacilitated fashion during most museum hours, the Space Visualization Laboratory also hosts Chicagoland astronomer for <em>Astronomy Conversations</em>.
 Astronomy Conversations allows for astronomers to discuss their research with the general public in a casual atmosphere, giving the general public a conduit to the process of scientific research.
-Although Astronomy Conversations was put on hiatus during the COVID-19 pandemic, I am currently working to reestablish and reinvent this long-running and influential public speaking series.
+We host Astronomy Conversations 3 days a week, <a href="https://www.adlerplanetarium.org/explore/exhibits/space-visualization-lab/" target="_blank">see here for a list of upcoming speakers</a>.
 
 ## Gravity Spy
 <a href="https://www.gravityspy.org/" target="_blank">Gravity Spy</a> is a citizen science project hosted by <a href="https://www.zooniverse.org" target="_blank">Zooniverse</a> that characterizes troublesome noise in the LIGO and Virgo gravitational-wave detectors.
