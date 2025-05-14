@@ -18,4 +18,4 @@ Below are a number of different media appearances!
 ## Geminid Meteor Shower
 ### ABC7 Chicago (December 2023)
 <br><br>
-<iframe width="864" height="648" src="https://abc7chicago.com/video/embed/?pid=LeadVideo-14176583" allowfullscreen frameborder="0"></iframe>
+<iframe width="640" height="360" src="https://abc7chicago.com/video/embed/?pid=LeadVideo-14176583" allowfullscreen frameborder="0"></iframe>
