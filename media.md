@@ -16,4 +16,4 @@ redirect_from:
 Below are links to a number of different media appearances!
 <br>
 
-<a href="https://abc7chicago.com/14176583/?fbclid=IwAR0GF3Esv2yhCWno5Sqk5Zjlb0hDDY6Ybj2pK1YURmAUbnca5YPauVWcOco#lq44d0f84c4uf7nsgwq">Geminid Meteor Shower, ABC7 Chicago (December 2023)</a><br>
+<a href="https://abc7chicago.com/14176583/?fbclid=IwAR0GF3Esv2yhCWno5Sqk5Zjlb0hDDY6Ybj2pK1YURmAUbnca5YPauVWcOco#lq44d0f84c4uf7nsgwq" target="_blank">Geminid Meteor Shower, ABC7 Chicago (December 2023)</a><br>
