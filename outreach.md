@@ -20,7 +20,7 @@ For a full list of my outreach, public speaking, and teaching experience, please
 ![Screenshot](/assets/img/outreach/tedx.png){:.lead width="1920" height="1080" loading="lazy"}
 
 ## Public Talks
-Talking to the public about space is one of my favorite things about my job!
+Talking to the public about space is one of the best things about my job!
 Here's just one of many talks I've given.
 <center>
 <iframe width="864" height="648" src="https://www.youtube.com/embed/_GD_giPVhv4?si=i3y_iw0XBAqKL0mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
