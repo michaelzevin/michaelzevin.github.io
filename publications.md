@@ -20,10 +20,17 @@ All <a href="https://ui.adsabs.harvard.edu/search/q=%20author%3A%22%5Ezevin%2C%2
 <ol>
 
 <li>
+<a href="https://ui.adsabs.harvard.edu/abs/2025arXiv250701189C/abstract" target="_blank">
+<i>Characterizing Compact Object Binaries in the Lower Mass Gap with Gravitational Waves</i></a><br>
+J. Cotturone, <b><i>M. Zevin</i></b><br>, S. Biscoveanu
+The Astrophysical Journal, submitted (2025)
+</li>
+
+<li>
 <a href="https://ui.adsabs.harvard.edu/abs/2024ApJ...970L..34A/abstract" target="_blank">
 <i>Exploring the evolution of gravitational-wave emitters with efficient emulation: Constraining the origins of binary black holes using normalising flows</i></a><br>
 S. Colloms, C.P.L. Berry, J. Veitch, <b><i>M. Zevin</i></b><br>
-The Astrophysical Journal, submitted (2025)
+The Astrophysical Journal, accepted (2025)
 </li>
 
 <li>
