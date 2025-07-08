@@ -22,7 +22,7 @@ All <a href="https://ui.adsabs.harvard.edu/search/q=%20author%3A%22%5Ezevin%2C%2
 <li>
 <a href="https://ui.adsabs.harvard.edu/abs/2025arXiv250701189C/abstract" target="_blank">
 <i>Characterizing Compact Object Binaries in the Lower Mass Gap with Gravitational Waves</i></a><br>
-J. Cotturone, <b><i>M. Zevin</i></b><br>, S. Biscoveanu
+J. Cotturone, <b><i>M. Zevin</i></b>, S. Biscoveanu
 The Astrophysical Journal, submitted (2025)
 </li>
 
