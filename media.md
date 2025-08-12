@@ -16,6 +16,8 @@ redirect_from:
 Below are links to a number of different media appearances!
 <br>
 
+<a href="https://abc7chicago.com/post/perseid-meteor-shower-peaks-astronomers-spot-rare-comet-black-hole-collision/17511812/" target="_blank">Perseid meteor shower peaks as astronomers spot rare comet, black hole collision, ABC (August 2025)</a><br>
+
 <a href="https://www.fox32chicago.com/video/1675394" target="_blank">Adler Planetarium astronomer explains 7-billion-year-old 'fossil galaxy', FOX (July 2025)</a><br>
 
 <a href="https://abc7chicago.com/post/adler-planetarium-hosting-livestream-rubin-observatory-chile/16825939/" target="_blank">Adler Planetarium hosting livestream of Rubin Observatory in Chile, ABC (June 2025)</a><br>
