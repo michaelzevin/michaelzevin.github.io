@@ -2,13 +2,13 @@
 layout: about
 image: /assets/img/blog/hydejack-9.jpg
 description: >
-  Michael Zevin Press.
+  Michael Zevin Media Appearances.
 hide_description: true
 redirect_from:
   - /download/
 ---
 
-# Media
+# Media Appearances
 
 1. this list will be replaced by the toc
 {:toc .large-only}
