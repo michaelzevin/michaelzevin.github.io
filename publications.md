@@ -20,17 +20,38 @@ All <a href="https://ui.adsabs.harvard.edu/search/q=%20author%3A%22%5Ezevin%2C%2
 <ol>
 
 <li>
-<a href="https://ui.adsabs.harvard.edu/abs/2025arXiv250701189C/abstract" target="_blank">
-<i>Characterizing Compact Object Binaries in the Lower Mass Gap with Gravitational Waves</i></a><br>
-J. Cotturone, <b><i>M. Zevin</i></b>, S. Biscoveanu
-The Astrophysical Journal, submitted (2025)
+<a href="https://ui.adsabs.harvard.edu/abs/2026arXiv260821609G/abstract" target="_blank">
+<i>When the stars don't align: Investigating inconsistencies in binary black hole formation</i></a><br>
+A. Guerrero, <b><i>M. Zevin</i></b>, D. Maclean, K. Breivik, C. Rodriguez, M. Briel, D. Holz
+The Astrophysical Journal (submitted)
 </li>
 
 <li>
-<a href="https://ui.adsabs.harvard.edu/abs/2024ApJ...970L..34A/abstract" target="_blank">
+<a href="https://ui.adsabs.harvard.edu/abs/2026ApJ..1007L..45W/abstract" target="_blank">
+<i>No Model-independent Evidence for a Peak in Binary Black Hole Spin (Mis)alignments</i></a><br>
+N. Wolfe, S. Vitale, <b><i>M. Zevin</i></b>
+The Astrophysical Journal Letters (submitted)
+</li>
+
+<li>
+<a href="https://ui.adsabs.harvard.edu/abs/2026ApJ..1005L..55R/abstract" target="_blank">
+<i>On the Astrophysical Origin of Binary Black Hole Subpopulations: A Tale of Three Channels?</i></a><br>
+A. Ray, S. Mukherjee, <b><i>M. Zevin</i></b>, V. Kalogera
+The Astrophysical Journal Letters 1005, L55 (2026)
+</li>
+
+<li>
+<a href="https://ui.adsabs.harvard.edu/abs/2026ApJ...998..272C/abstract" target="_blank">
+<i>Characterizing Compact Object Binaries in the Lower Mass Gap with Gravitational Waves</i></a><br>
+J. Cotturone, <b><i>M. Zevin</i></b>, S. Biscoveanu
+The Astrophysical Journal 988, 272 (2026)
+</li>
+
+<li>
+<a href="https://ui.adsabs.harvard.edu/abs/2025ApJ...988..189C/abstract" target="_blank">
 <i>Exploring the evolution of gravitational-wave emitters with efficient emulation: Constraining the origins of binary black holes using normalising flows</i></a><br>
 S. Colloms, C.P.L. Berry, J. Veitch, <b><i>M. Zevin</i></b><br>
-The Astrophysical Journal, accepted (2025)
+The Astrophysical Journal 988, 189 (2025)
 </li>
 
 <li>
