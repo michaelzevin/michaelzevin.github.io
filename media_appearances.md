@@ -13,8 +13,24 @@ redirect_from:
 1. this list will be replaced by the toc
 {:toc .large-only}
 
-Below are links to a number of different media appearances!
+Below are links to a number of different media appearances...
 <br>
+
+<a href="https://www.youtube.com/watch?v=ipGE-cbhZB8" target="_blank">Part of a SpaceX rocket crashed into the Moon, FOX (August 2026)</a><br>
+
+<a href="https://www.fox32chicago.com/video/fmc-fhjh9bqhg3e8eo4u" target="_blank">Why a SpaceX rocket will soon crash into the Moon, FOX (August 2026)</a><br>
+
+<a href="https://www.youtube.com/watch?v=VFZe8gdC9_s" target="_blank">Astronomers detect sugar in space, FOX (July 2026)</a><br>
+
+<a href="https://www.fox32chicago.com/video/fmc-14dzdxufd0oe8y0e" target="_blank">Pentagon releases UFO Files, FOX (May 2026)</a><br>
+
+<a href="https://www.nbcchicago.com/video/news/local/artemis-ii-splashes-down-after-historic-mission/3921173/" target="_blank">Artemis II splashes down after historic mission, NBC (April 2026)</a><br>
+
+<a href="https://www.wbez.org/say-more-with-mary-dixon-patrick-smith/2026/04/10/would-you-travel-to-the-moon" target="_blank">Would you travel to the Moon, WBEZ (April 2026)</a><br>
+
+<a href="https://wgntv.com/video/artemis-astronauts-will-return-earth-tonight/11689971/" target="_blank">Artemis Astronauts return to Earth, WGN (April 2026)</a><br>
+
+<a href="https://www.instagram.com/p/DXrZ8zGkXlc/" target="_blank">This or That w/ Andy Weir (March 2026)</a><br>
 
 <a href="https://abc7chicago.com/post/perseid-meteor-shower-peaks-astronomers-spot-rare-comet-black-hole-collision/17511812/" target="_blank">Perseid meteor shower peaks as astronomers spot rare comet, black hole collision, ABC (August 2025)</a><br>
 
